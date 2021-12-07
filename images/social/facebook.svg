@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="23px" viewBox="0 0 11 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFAB36" offset="0%"></stop>
+            <stop stop-color="#DB7309" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Social-Media" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.3193203,7.53629564 L7.3193203,5.55452901 C7.3193203,5.25702693 7.33336678,5.02659236 7.36191123,4.8638119 C7.39035536,4.70078702 7.4550695,4.5404507 7.55550184,4.38216747 C7.65578368,4.22398201 7.81817104,4.11477734 8.04241308,4.05426016 C8.26695611,3.99364521 8.5653435,3.9634355 8.93787625,3.9634355 L10.9715559,3.9634355 L10.9715559,0 L7.72034733,0 C5.83912219,0 4.4880012,0.434912255 3.66678372,1.30473676 C2.84566657,2.17475681 2.43515816,3.45627414 2.43515816,5.14977758 L2.43515816,7.53624676 L0,7.53624676 L0,11.4999756 L2.43500766,11.4999756 L2.43500766,23 L7.31927013,23 L7.31927013,11.5000244 L10.570278,11.5000244 L11,7.53629564 L7.3193203,7.53629564 Z" id="facebook" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

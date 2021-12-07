@@ -1,0 +1,70 @@
+{
+    "sitename":"Megaads",
+    "playnow":"#",
+    "pcurl":"#",
+    "iosurl":"#",
+    "androidurl":"#",
+    "social" : [
+        {
+            "name":"Discord",
+            "url":"https://discord.com/",
+            "image": "/images/discord.svg",
+            "active":true
+        },
+        {
+            "name":"Twitter",
+            "url":"https://twitter.com/",
+            "image": "/images/twitter.svg",
+            "active":true
+        },
+        {
+            "name":"Telegram",
+            "url":"https://telegram.com/",
+            "image": "/images/telegram.svg",
+            "active":true
+        }
+    ],
+    "menu":[
+        {
+            "name":"Home",
+            "url":"#fx-header",
+            "active":true,
+            "childs":[]
+        },
+        {
+            "name":"Maketplace",
+            "url":"#",
+            "active":false,
+            "childs":[]
+        },
+        {
+            "name":"Features",
+            "url":"#fx-features",
+            "active":true,
+            "childs":[]
+        },
+        {
+            "name":"Roadmap",
+            "url":"#fx-roadmap",
+            "active":true,
+            "childs":[]
+        },
+        {
+            "name":"Docs",
+            "url":"#",
+            "active":true,
+            "childs":[
+                {
+                    "name":"Whitepaper",
+                    "url":"#",
+                    "active":true
+                },
+                {
+                    "name":"Pitchdeck",
+                    "url":"#",
+                    "active":true
+                }
+            ]
+        }
+    ]
+}
